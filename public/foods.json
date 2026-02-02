@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"waffle",
+        "description":"test good ",
+        "image":"https://i.ibb.co.com/vCH6JTpL/waffle.jpg",
+        "ordered":300,
+        "ratings":5.0,
+        "price":250
+    },
+    {
+        "id":2,
+        "name":"aloo paratha",
+        "description":"test good ",
+        "image":"https://i.ibb.co.com/NdtbXZSR/aloo-paratha.jpg",
+        "ordered":300,
+        "ratings":5.0,
+        "price":250
+    }
+]
